@@ -22,7 +22,7 @@ public class BC_Frame extends JFrame{
 	int times = 0;
 	Questions q = new Questions(1);
 	public BC_Frame() {
-		setTitle("Baisc Computation");
+		setTitle("Basic Computation");
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setBounds(200, 200, 300, 150);
 		setLayout(null);
